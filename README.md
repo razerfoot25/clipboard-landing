@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://clipboard-landing-jay.netlify.app/](https://clipboard-landing-jay.netlify.app/)
+- Live Site URL: [https://clipboard-landing-jay.netlify.app/](https://clipboard-landing-jay.netlify.app/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@razerfoot25](https://www.frontendmentor.io/profile/razerfoot25)
